@@ -1,0 +1,24 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit",
+      "source.organizeImports": "explicit"
+    },
+    // text editing stuff
+    "editor.linkedEditing": true,
+    "editor.inlineSuggest.enabled": true,
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    // font
+    "editor.fontFamily": "Iosevka Expanded",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.42857, // makes font size 14 have line height of ~20px
+    "apc.font.family": "Iosevka Expanded",
+    // cursor
+    "editor.cursorBlinking": "smooth", // smol cursor animation, looks nice
+    "editor.cursorSmoothCaretAnimation": "on",
+    "cSpell.words": [
+      "Formz"
+    ] // move cursor smoothly
+  }
+  
